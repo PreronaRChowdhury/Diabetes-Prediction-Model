@@ -1,2 +1,2 @@
 # Diabetes-Prediction-Model
-A Machine Learning model using Logistic Regression to predict if a person has Diabetes or not based on other feature variables on the dataset.
+This projects is a Machine Learning prediction model using Logistic Regression.In order to access the output we first extract the pynb file and the csv file from the ripository to a folder in our PC. Then we open Jupyter Notebook through the terminal in that folder. We are then ready to run the code. We can try running the code for different inputs as shown in the demonstration video.    
